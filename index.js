@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { createRoot } from 'react-dom/client';
-import "./styles.css";
+import "./style.css";
 
 function App() {
   const [entries, setEntries] = useState([]);
